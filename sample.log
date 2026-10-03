@@ -1,0 +1,8 @@
+2026-09-20 08:14:22 INFO server started on port 8080
+2026-09-20 08:14:23 INFO connection accepted from 10.0.0.5
+2026-09-20 08:15:01 WARN high memory usage 82 percent
+2026-09-20 08:15:47 ERROR failed to write to disk
+2026-09-20 08:16:02 INFO connection closed
+2026-09-20 08:16:30 ERROR database connection timeout
+2026-09-20 08:17:11 WARN retrying request attempt 2
+2026-09-20 08:17:12 INFO request succeeded
